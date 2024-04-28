@@ -5,7 +5,7 @@ int main(int argc, char** argv)
 {
 	if (argc != 2)
 	{
-		printf("\n\n\tusage: <application name> <Image Path> \n\n");
+		printf("\n\n\tusage: <application name> <Image File Path> \n\n");
 		
 		return -1;
 	}
