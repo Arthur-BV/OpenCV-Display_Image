@@ -1,3 +1,16 @@
+# Ignore all
+*
+# Unignore all with extensions
+!*.*
+# Unignore all dirs
+!*/
+
+/CMakeFiles/
+*cache*
+*Cache*
+Makefile
+*.cmake
+
 # Prerequisites
 *.d
 
